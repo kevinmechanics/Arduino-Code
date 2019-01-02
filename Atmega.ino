@@ -17,7 +17,8 @@ dht DHT;//create a variable type of dht
 
 const int DHT11_PIN = 7; //Humiture sensor attach to pin7
 
-int sensorValue; // mq135
+// mq135
+int sensorValue; 
 
 //KY016 3-color LED module
 int redpin = 11; // select the pin for the red LED
