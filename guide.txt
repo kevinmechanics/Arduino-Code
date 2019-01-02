@@ -1,0 +1,39 @@
+Breadboard
+black + gnd
+white - vcc
+
+Humid and temp >
+white cable(vcc): 5v
+black cable(gnd): gnd
+gray able: 7
+
+Rtc >
+white cable(vcc): 5v
+black cable(gnd): gnd
+green cable(CLK): 4
+blue cable(DAT): ~3
+yellow cable(RST): 2
+
+Lcd > Arduino uno
+white cable(vcc): 5v
+black cable(gnd): gnd
+yellow cable(SDA):  A4
+orange cable(SCL): A5
+
+Lcd > Atmega2560 
+white cable(vcc): 5v
+black cable(gnd): gnd
+yellow cable(SDA): SDA
+orange cable(SCL): SCL
+
+
+Mq135
+white(vcc): 5v
+black(gnd): gnd
+red: a0 (add)
+
+rgb
+pin 11 --> Pin R module 
+pin 10 --> Pin G module 
+pin 9 --> Pin B module 
+pin GND --> Pin - module 
