@@ -32,7 +32,7 @@ white(vcc): 5v
 black(gnd): gnd
 red: a0 (add)
 
-rgb
+RGB Module
 pin 11 --> Pin R module 
 pin 10 --> Pin G module 
 pin 9 --> Pin B module 
